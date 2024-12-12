@@ -33,7 +33,7 @@ Additional Files:
 
 Steps to Run the Pipeline:
 --------------------------
-1. Place raw reads in 'raw_reads/' folder, named as '<sample>_R1_001.fastq.gz' and '<sample>_R2_001.fastq.gz'.
+1. Place raw reads in 'raw_reads/' folder, named as '<sample>_R1.fastq.gz' and '<sample>_R2.fastq.gz'.
 2. Update 'config/config.yaml' with your sample names, database paths, and thread settings.
 3. Activate the pipeline environment:
    conda activate virpipe_short1
