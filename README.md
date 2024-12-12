@@ -22,7 +22,8 @@ Pipeline Directory Structure:
   - generate_report.py              
 - tools/
   - KrakenTools/
-  - DeepVirFinder/   	                
+  - DeepVirFinder/
+  - VirSorter2 	                
 - Snakefile
 
 Additional Files:
