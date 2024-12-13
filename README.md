@@ -40,5 +40,6 @@ Steps to Run the Pipeline:
 4. Run the pipeline with:
    snakemake --cores <number_of_cores> --use-conda
 
-![dag-1](https://github.com/user-attachments/assets/238d0118-ef85-422d-9070-89490e39fb56)
+![dag-1](https://github.com/user-attachments/assets/758a1363-91ea-40bb-b63e-b3ecbd3746a4 =250x400)
+
 
