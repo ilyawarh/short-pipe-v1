@@ -38,4 +38,6 @@ Steps to Run the Pipeline:
 3. Activate the pipeline environment:
    conda activate virpipe_short1
 4. Run the pipeline with:
-   snakemake --cores <number_of_cores> --use-conda 
+   snakemake --cores <number_of_cores> --use-conda
+   
+[dag.pdf](https://github.com/user-attachments/files/18127119/dag.pdf)
