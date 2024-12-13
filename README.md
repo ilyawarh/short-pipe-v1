@@ -40,6 +40,7 @@ Steps to Run the Pipeline:
 4. Run the pipeline with:
    snakemake --cores <number_of_cores> --use-conda
 
+<img src="https://github.com/user-attachments/assets/758a1363-91ea-40bb-b63e-b3ecbd3746a4" width="250" height="400">
 ![dag-1](https://github.com/user-attachments/assets/758a1363-91ea-40bb-b63e-b3ecbd3746a4 =250x400)
 
 
