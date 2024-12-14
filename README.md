@@ -39,7 +39,7 @@ Steps to Run the Pipeline:
    conda activate virpipe_short1
 4. Run the pipeline with:
    snakemake --cores <number_of_cores> --use-conda
-   4.1 If your Mamba version is less than 2.* you can add "--conda-frontend mamba" to speed up the subenvs building
+4.1 If your Mamba version is less than 2.* you can add "--conda-frontend mamba" to speed up the subenvs building
 
 
 <img src="https://github.com/user-attachments/assets/98fc6a5e-1190-4042-a77d-8929199fe734" width="300" height="550">
