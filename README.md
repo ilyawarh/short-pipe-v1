@@ -23,12 +23,12 @@ Pipeline Directory Expected Structure:
 - tools/
   - KrakenTools/
   - DeepVirFinder/
-  - VirSorter2 	                
+  - VirSorter2/ 	                
 - Snakefile
 
 Additional Files:
 --------------------------
-- setup_environment.sh - Bash script to install the env (including third party tools)
+- setup_environment.sh - Bash script to install the env (including all third party tools)
 - IMGvr_to_centrifuge_DB.py - Python script to transform IMG/VR database files to usable input for "centrifuge-build"  
 
 Steps to Run the Pipeline:
@@ -39,7 +39,7 @@ Steps to Run the Pipeline:
    conda activate virpipe_short1
 4. Run the pipeline with:
    snakemake --cores <number_of_cores> --use-conda
-4.1 If your Mamba version is less than 2.* you can add "--conda-frontend mamba" to speed up the subenvs building
+   - If your Mamba version is less than 2.* you can add "--conda-frontend mamba" to speed up the subenvs building
 
 
 <img src="https://github.com/user-attachments/assets/98fc6a5e-1190-4042-a77d-8929199fe734" width="300" height="550">
