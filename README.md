@@ -41,5 +41,4 @@ Steps to Run the Pipeline:
    snakemake --cores <number_of_cores> --use-conda
 
 
-
-<img src="https://github.com/user-attachments/assets/758a1363-91ea-40bb-b63e-b3ecbd3746a4" width="300" height="550">
+<img src="https://github.com/user-attachments/assets/98fc6a5e-1190-4042-a77d-8929199fe734" width="300" height="550">
